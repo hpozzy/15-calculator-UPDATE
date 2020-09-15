@@ -1,6 +1,36 @@
 #answerBox {
   margin-top: 15px;
-  height: 45px;
+  height: 65px;
   width: 225px;
+  font-size: 25px;
   border: 1px solid black;
+}
+
+#multiply {
+  width: 45px;
+  height: 45px;
+}
+
+#divide {
+  width: 45px;
+  height: 45px;
+}
+#addition {
+  width: 45px;
+  height: 45px;
+}
+#subtraction {
+  width: 45px;
+  height: 45px;
+}
+#num1 {
+  width: 165px;
+  height: 65px;
+  font-size: 25px;
+  justify-items: flex-end;
+}
+#num2 {
+  width: 165px;
+  height: 65px;
+  font-size: 25px;
 }
