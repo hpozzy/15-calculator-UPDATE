@@ -1,10 +1,12 @@
 ## You Should Know
+
 - HTML
 - CSS Layout
 - Javascript Fundamentals
 - jQuery Fundamentals
 
 ## Your Mission
+
 Now that you're familiar with all the building blocks of a functional web application, let's build something we can really use - a calculator!
 
 ### Explore Mode
@@ -34,10 +36,12 @@ Now that you're familiar with all the building blocks of a functional web applic
 **Goal #3.1:** Refactored Javascript using jQuery for advanced calculator functionality.
 
 ## Requirements for Completion
+
 - A Github repository containing:
   - `index.html`
   - `styles.css`
   - `main.js`
 
 ## You May Need
+
 - [Calculator Mockup](calculator.gif)
